@@ -1,0 +1,7 @@
+{
+  "/analysis/page": "app/analysis/page.js",
+  "/games/page": "app/games/page.js",
+  "/page": "app/page.js",
+  "/api/chesscom/games/route": "app/api/chesscom/games/route.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
